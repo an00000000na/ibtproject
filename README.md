@@ -19,7 +19,6 @@ An online shop for summer dresses
 		- "картичките" препращат към страниците на съответните им продукти(product1.html - product5.html)
 
 2-6. (product1.html - product5.html)
-
 	- съдържа:
 		- информация за продукта: 
 			- име
